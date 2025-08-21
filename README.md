@@ -1,4 +1,4 @@
-## Hi there 👋
+## 个人介绍
 
 <!--
 **Vandalizerzzz/Vandalizerzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 硕士：复旦大学 计算机科学技术学院·计算机技术·硕士
+- 🎓 本科：中南大学 计算机学院·软件工程·学士 
+- 💼 部门：阿里国际 设计中心·AI设计中台·堆友·研发工程师JAVA
+- 🏠 家乡：湖南·岳阳
+- 🌟 业余爱好：徒步🥾·唱歌🎤·看演出🎵·live house🎸
 
-## 🎓 复旦大学 计算机科学技术学院 计算机技术硕士 2023.9-2026.6
-## 🎓 中南大学 计算机学院 软件工程学士 2019.9-2023.6
